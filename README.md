@@ -6,7 +6,7 @@
 <!--🔭 I’m currently working on
 <br>👯 I’m looking to collaborate on
 <br>🤝 I’m looking for help with-->
-<br>🌱 I’m currently learning Web development<br>💬 Ask me about: Web development, JavaScript, Java, and anything related to programming and technology.<br>⚡ Fun fact: I once participated in a hackathon and built a project that ended up winning the first prize!
+<br>🌱 I’m currently learning Web development<br>💬 Ask me about:  anything related to programming and technology.<br>⚡ Fun fact: I once participated in a hackathon and built a project that ended up winning the first prize!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=swornimthapa&icon=8&color=6)](https://visitcount.itsvg.in)
@@ -28,6 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=swornimthapa&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swornimthapa&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swornimthapa&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 
